@@ -1,0 +1,86 @@
+title,Selling Price,Calories,Description ,Category
+Veg Momo,120,300,typical Vegetable momo  ,Low Calories
+Chicken Momo,140,350,Momo stuffed with chicken kemma inside,Low Calories
+Buff Momo,130,340,Momo stuffed with buff kemma inside,Low Calories
+Pork Momo,200,400,Momo stuffed with pork kemma inside served with mynose ,Low Calories
+Veg Chowmein,200,300,noodle dish with light sauce and different vegetables ,Low Calories
+Chicken Chowmein,250,300,noodle dish with light sauce and chicken meat pieces,Low Calories
+Buff Chowmein,240,300,noodle dish with light sauce and  buff meat pieces,Low Calories
+Pork Chowmein,340,300,noodle dish with light sauce and pork meat pieces,Low Calories
+Chicken Meat bowl,500,550,a small ball of ground chicken meat with spices,High Calories
+Buff Meat Bowl,550,550,a small ball of ground buff meat with spices,High Calories
+Cheese Pizza,400,600,flattened disk of bread dough topped with cheese and veggies,High Calories
+Sausage Pizza,450,600,flattened disk of bread dough topped with sausages and veggies,High Calories
+Chicken Pizza,450,600,flattened disk of bread dough topped with chicken meat,High Calories
+Tomato Pizza,450,600,flattened disk of bread dough topped with tomato sauce ,High Calories
+Mushroom Pizza,450,600,flattened disk of bread dough topped with mushroom,High Calories
+Pineapple Pizza,450,600,flattened disk of bread dough topped with pineapple slices,High Calories
+Pork Pizza,450,600,flattened disk of bread dough topped with pork meat ,High Calories
+Veg Momo Chilly Fried,120,340,veg momo fried with sauce and veggies ,Low Calories
+Chicken Momo Chilly Fried,140,360,chicken momo fried with sauce and veggies,Low Calories
+Buff Momo Chilly Fried,130,360,buff momo fried with sauce and veggies,Low Calories
+Pork Momo Chilly Fried,200,360,pork momo fried with sauce and veggies,Low Calories
+Momo Platter,700,800,combination of different types of momos,High Calories
+Egg Burger,190,340,"sandwich made from egg , veggies and placed between 2 half buns ",Low Calories
+Chicken Burger,200,350,"sandwich made from chicken patty , veggies and placed between 2 half buns ",Low Calories
+Buff Burger,200,400,"sandwich made from buff patty , veggies and placed between 2 half buns ",Low Calories
+Ham Burger,200,400,"sandwich made from ham , veggies and placed between 2 half buns ",Low Calories
+Rice ,210,560,typical seed of grains ,High Calories
+Fried Rice,220,600,rice fried with different vegetables and light sauce ,High Calories
+Matka Biryani,450,700,"rice cooked in matka with vegetables, meat, light sauce ",High Calories
+Halal Biryani,500,700,"rice cooked in matka with vegetables, halal meat, light sauce ",High Calories
+Biryani,400,650,"rice cooked with vegetables, meat, light sauce ",High Calories
+Fish Platter,600,700,combination of different types of fishes,High Calories
+Khana set,350,600,"typical rice with side dish such including daal,tarkari,meat,achar,papad etc",High Calories
+Thakali Khana set,400,600,typical rice with thakali side dishes ,High Calories
+Sausage,200,340,"mixture of ground meat, combined with spices and seasonings ",Low Calories
+Chicken Tandori ,750,800,a dish of roastedchicken marinated in yogurt and spices ,High Calories
+Fish Tandori,800,800,a dish of roasted fish marinated in yogurt and spices ,High Calories
+Coke,50,400,soft-drink ,Low Calories
+Fanta,50,400,soft-drink ,Low Calories
+Sprite,50,400,soft-drink ,Low Calories
+Pepsi,50,400,soft-drink ,Low Calories
+Dew,50,400,soft-drink ,Low Calories
+Ice cream milkshake,150,340,"a cold drink made of milk, icecream, whisked unit it is frothy",Low Calories
+Vanilla Mocha,150,600,high quality coffee with vanilla essence,High Calories
+Vanilla Ice Cream,150,600,ice cream with vanilla flavor,High Calories
+Sandwich Chicken,150,300,boneless chicken served between slices of bread,Low Calories
+Sandwich Mashroom,150,300,mushroom served between slices of vread ,Low Calories
+Chicken Drum Stick,340,560,chicken leg fried ,High Calories
+Chicken Wings,330,560,deep fried chicken wings coatedin a sauce ,High Calories
+Fries ,120,600,deep fried potatoes,High Calories
+Sekuwa Pork,180,700,pork meat roasted in natural wood fire ,High Calories
+Sekuwa Chicken,190,700,chicken meast roasted in natural wood fire,High Calories
+Sekuwa Buff,160,700,buff meat roasted in natural wood fire,High Calories
+Chicken Curry,300,800,chicken meat with gravy seasoned with a mixture of ground spices,High Calories
+Fish Curry,340,800,fish meat with gravy seasoned with a mixture of ground spices,High Calories
+Buff Curry,300,800,buff meat with gravy seasoned with a mixture of ground spices,High Calories
+Veg Curry,200,800, different vegatables with gravy seasoned with a mixture of ground spices,High Calories
+Chicken McNuggets,300,650,small pieces of chicken fried in batter,High Calories
+Premium Crispy Chicken Classic Sandwich,200,400,crispy fried chicken served with slices of brerad,Low Calories
+Premium Grilled Chicken Classic Sandwich,240,400,grilled chicken served with slices of bread ,Low Calories
+Premium Crispy Chicken Club Sandwich,250,400,crispy chicken club served with slices of bread ,Low Calories
+Premium Grilled Chicken Club Sandwich,250,400,grilled chicken club served with slices of bread ,Low Calories
+Premium Crispy Chicken Ranch BLT Sandwich,250,400, crispy chicken served with ranch BLT and slices of bread ,Low Calories
+Premium Grilled Chicken Ranch BLT Sandwich,270,400, grilled chicken served with ranch BLT and slices of bread ,Low Calories
+Bacon Clubhouse Crispy Chicken Sandwich,270,400, crispy chicken served with bacon slices and slices of bread ,Low Calories
+Bacon Clubhouse Grilled Chicken Sandwich,270,400, crispy chicken served with bacon slices  and slices of bread ,Low Calories
+Southern Style Crispy Chicken Sandwich,270,400, crispy chicken served with southern spices and slices of bread ,Low Calories
+Kids French Fries,150,400,deep fried potatoes for kids portion ,Low Calories
+Side Salad,240,200,combination of different sliced  vegetables ,Low Calories
+Apple Slices,200,200,small pieces of apples,Low Calories
+Fruit 'n Yogurt Parfait,200,200,a rich cold dessert with fruits and yogurt ,Low Calories
+Baked Apple Pie,200,200,a sweet food made from baked apples,Low Calories
+Chocolate Chip Cookie,200,600,a baked treat with choclate chip toppings ,High Calories
+Oatmeal Raisin Cookie,200,400,a baked treat with oatmeal raisin ,Low Calories
+Kids Ice Cream Cone,200,400,small portion of icecream cone,Low Calories
+Hot Fudge Sundae,300,400,"creation of hot choclate sauce with nuts,whipped cream,cherry",Low Calories
+Hot Caramel Sundae,300,400,"creation of hot caramel sauce with nuts,whipped cream,cherry",Low Calories
+Strawberry Sundae,300,400,"creation of strawberry juice with nuts, whipped cream, cherry ",Low Calories
+Fat Free Chocolate Milk Jug,200,400,milk powdered with choclated ,Low Calories
+Minute Maid 100% Apple Juice Box,200,400,imported apple juice,Low Calories
+Minute Maid Orange Juice,200,300,imported orange  juice,Low Calories
+Vanilla Shake ,200,400,"creamy concoction of vanilla icecream, milk and vanilla extract ",Low Calories
+Strawberry Shake ,200,400,"creamy concoction of strawberry icecream, milk and strawberry toppings",Low Calories
+Chocolate Shake ,200,500,"creamy concoction of choclate  icecream, milk ",High Calories
+Shamrock Shake,200,600,"creamy concoction of shamroack  icecream, milk ",High Calories

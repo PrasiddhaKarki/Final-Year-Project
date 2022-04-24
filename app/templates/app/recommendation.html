@@ -1,0 +1,21 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block title %}Recommendation system{% endblock title %}
+{% block main-content %}
+<div class="input-group rounded">
+   
+    <h1>Food Recommendation</h1>
+
+    <form action='{% url 'search' %}' class="search" method="GET">
+      <input list="keyword" name="keyword">
+      <datalist id="keyword">
+        {% for f in food %}
+        <option value="{{f.title}}">
+        {% endfor %}
+        
+      </datalist>
+      <input type="submit" value="Submit">
+    </form>
+    
+  
+{% endblock main-content %}
